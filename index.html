@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#173d30" />
+  <meta name="description" content="실존 경주마의 출전 기록을 날짜순으로 연결하고 직접 편집하는 경주 아카이브." />
+  <title>UMA RACE ATLAS | GitHub Pages Edition</title>
+  <link rel="stylesheet" href="./styles.css" />
+  <script defer src="./seed.js"></script>
+  <script defer src="./full-export.js"></script>
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <header class="header">
+    <button class="brand" id="goHome" type="button"><span class="brand-mark">♞</span><span>UMA <small>RACE ATLAS</small></span></button>
+    <nav><button id="navTimeline" class="active">타임라인</button><button id="navManage">데이터 관리</button></nav>
+    <span class="header-badge">GITHUB PAGES EDITION</span>
+  </header>
+  <main class="container">
+    <section id="timelineView">
+      <div class="hero">
+        <div><span class="eyebrow">JAPAN RACING CHRONICLE · HISTORICAL DATA</span><h1>모든 경주가,<br/><em>하나의 시간 위에서.</em></h1><p>경주마들이 달린 날들을 실제 날짜 순서로 연결했습니다. 같은 경기에 출전한 경주마의 기록은 같은 세로축에서 만납니다.</p><div class="hero-actions"><button class="solid" id="heroAdd">+ 기록 추가하기</button><button class="light" id="heroBackup">JSON 전체 백업</button></div></div>
+        <div class="hero-stats"><div><b id="statHorses">—</b><span>RACEHORSES</span></div><div><b id="statEvents">—</b><span>RACE EVENTS</span></div><div><b id="statStarts">—</b><span>START RECORDS</span></div><div><b id="statShared">—</b><span>SHARED RACES</span></div></div>
+      </div>
+      <div class="section-heading"><div><span class="eyebrow">01 / INTERACTIVE TIMELINE</span><h2>경주마의 발자취를 따라가세요</h2></div><small>실제 날짜 간격 적용 · 세로 점선은 같은 경기</small></div>
+      <div class="layout">
+        <aside class="side">
+          <div class="side-title"><div><span class="eyebrow">SELECT HORSES</span><h3>경주마 선택</h3></div><strong id="selectedCount">—</strong></div>
+          <div class="side-actions"><button id="selectAll">전체 선택</button><button id="clearAll">모두 해제</button></div>
+          <input class="search" id="horseSearch" placeholder="경주마 이름 검색" />
+          <div class="presets"><span>빠른 선택</span><button data-preset="golden">98 황금세대 ↗</button><button data-preset="classic">2012 클래식 ↗</button><button data-preset="recent">2018의 별들 ↗</button></div>
+          <div id="horseList" class="horse-list"></div>
+          <div class="side-foot">처음에는 모든 경주마가 선택되어 있습니다. 필요한 말만 남겨 비교할 수도 있어요.</div>
+        </aside>
+        <section class="timeline-card">
+          <div class="toolbar"><div><small>TIME-ALIGNED RACE RECORDS</small><h3 id="periodTitle">1998 — 1999</h3></div><div class="controls"><div class="year-picker"><button id="prevYear" title="시작 연도 -1">‹</button><input id="startYear" aria-label="시작 연도" type="number" value="1998" min="1970" max="2025"/><button id="nextYear" title="시작 연도 +1">›</button></div><select id="period" aria-label="기간 선택"><option value="1">1년 보기</option><option value="2" selected>2년 보기</option><option value="5">5년 보기</option><option value="10">10년 보기</option><option value="20">20년 보기</option><option value="all">전체 보기</option></select><label class="zoom-label">확대 <input type="range" id="zoom" min="0.1" max="2.5" step="0.05" value="1" aria-label="날짜 간격 확대" /></label></div></div>
+          <div class="legend"><span><i class="dot"></i> 경기 출전</span><span><i class="dashed"></i> 공동 출전</span><span>가로·세로 스크롤로 탐색</span></div>
+          <div class="track-grid"><div class="track-labels" id="labelsScroll"><div class="track-heading">TRACKS / HORSES</div><div id="trackLabels"></div></div><div class="track-canvas" id="tracksScroll"><svg id="raceSvg" xmlns="http://www.w3.org/2000/svg" aria-label="경주마별 출전 기록 타임라인"></svg></div></div>
+          <div class="timeline-bottom">동그라미를 누르면 해당 경기의 모든 출전마가 표시됩니다. 아직 확인되지 않은 마지막 경기는 ‘마지막 확인’으로 구분합니다.</div>
+        </section>
+      </div>
+      <div class="full-image-strip"><div><span class="eyebrow">02 / FULL CHRONOLOGY IMAGE</span><h2>1976—2021년, 모든 기록을 한 장에.</h2><p>전체 경주마·경기 지점·공동 출전선을 통합해 출력합니다. SVG는 확대해도 선명한 벡터로 이미지 원본을 가능한 한 그대로 포함합니다. PNG는 브라우저 메모리에 맞춘 고해상도 버전입니다.</p><small id="fullExportStatus" role="status"></small></div><div class="full-image-actions"><button id="exportFullSvg" class="solid">전체 SVG · 원본 화질</button><button id="exportFullPng" class="light">전체 PNG · 고화질</button></div></div>
+      <div class="download-strip"><div><span class="eyebrow">EXPORT / PORTABLE DATA</span><h2>데이터는 직접 백업하고 옮길 수 있어요.</h2><p>이 버전의 편집 내용은 현재 브라우저에 저장됩니다. 다른 기기로 옮길 때 JSON을 내려받아 가져오세요.</p></div><button id="stripBackup" class="light">JSON 내보내기</button></div>
+    </section>
+    <section id="manageView" hidden>
+      <div class="manage-head"><div><span class="eyebrow">DATA MANAGEMENT / OFFLINE-FIRST</span><h1>기록을 직접 관리하세요.</h1><p>경주마·경기·출전 기록·의상을 추가·수정·삭제할 수 있어요. 변경 사항은 이 브라우저에만 남으므로 주기적으로 JSON 백업을 권장합니다.</p></div><div class="manage-buttons"><button id="backupBtn" class="light">↓ JSON 백업</button><button id="importBtn" class="light">↑ JSON 가져오기</button><input id="importFile" hidden type="file" accept=".json,application/json"/><button id="backBtn" class="solid">← 타임라인</button></div></div>
+      <div class="manage-notice">GitHub Pages 정적판: 저장은 브라우저 내부 저장소에 이루어집니다. 원격 데이터베이스나 이미지 업로드 서버는 포함되지 않습니다.</div>
+      <div class="kind-tabs"><button data-kind="horse" class="active">경주마 <b id="countHorse">—</b></button><button data-kind="event">경기 <b id="countEvent">—</b></button><button data-kind="race">출전 기록 <b id="countRace">—</b></button><button data-kind="variant">의상 <b id="countVariant">—</b></button></div>
+      <div class="manage-table-box"><div class="manage-table-head"><div><span class="eyebrow" id="kindCaption">EDIT / HORSE</span><h2 id="kindTitle">경주마 데이터</h2></div><div><input id="manageSearch" class="search" placeholder="이름 · 날짜 · ID 검색"/><button class="solid" id="addRecord">+ 새 기록</button></div></div><div class="table-scroll"><table><thead><tr><th>ID</th><th>이름</th><th>기록</th><th>상태</th><th>관리</th></tr></thead><tbody id="recordsBody"></tbody></table></div><div class="pager"><span id="recordCount">—</span><div><button id="pagePrev">‹</button><button id="pageNext">›</button></div></div></div>
+    </section>
+  </main>
+  <div id="detail" class="detail" hidden></div>
+  <div class="overlay" id="editOverlay" hidden><form id="editForm" class="edit-modal"><div class="modal-head"><div><span class="eyebrow" id="editSubtitle">RECORD EDITOR</span><h2 id="editTitle">기록 편집</h2></div><button type="button" id="closeEditor" aria-label="닫기">×</button></div><div class="modal-body" id="editFields"></div><div class="modal-foot"><span>날짜는 YYYY-MM-DD 형식으로 저장됩니다.</span><div><button type="button" id="cancelEditor" class="light">취소</button><button type="submit" class="solid">변경 저장</button></div></div></form></div>
+  <div id="toast" class="toast" hidden></div>
+  <footer><span>UMA RACE ATLAS · 2026</span><span>GitHub Pages Edition · historical racing data</span></footer>
+</body>
+</html>

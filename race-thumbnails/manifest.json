@@ -1,0 +1,451 @@
+{
+  "source_page": "https://namu.wiki/w/%EC%9A%B0%EB%A7%88%EB%AC%B4%EC%8A%A4%EB%A9%94%20%ED%94%84%EB%A6%AC%ED%8B%B0%20%EB%8D%94%EB%B9%84/%EB%A0%88%EC%9D%B4%EC%8A%A4/%EB%AA%A9%EB%A1%9D",
+  "source_section": "2.1. G1 레이스 / 상세 썸네일 표",
+  "imported_at": "2026-10-29",
+  "usage_note": "게임 레이스 썸네일의 저작권은 별도로 확인해야 함. 공개 배포 전 원저작자 권리 및 이용 허락을 검토하세요.",
+  "downloaded": 44,
+  "failed": [],
+  "events_updated": 566,
+  "thumbnails": [
+    {
+      "number": 1,
+      "name_ja": "阪神ジュベナイルフィリーズ",
+      "name_ko": "한신 쥬버나일 필리스",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP3RtKi7OINj7gOXV6mgN1MCuZL8o_vtQeju2DWOUT1Fy2qH-zcdj9HEO0aHnoz1KKsZvDI-kjOce797Xzz_DhuystbQlDEXX1F0sViNW1m9BypeDXUhToFdCCqso0U8WUF8ZkRZoIHWISppFRxI_0yI.webp",
+      "file": "g1-01.webp",
+      "size_bytes": 4744,
+      "sha256": "7154f3316164e1ab13a369c9acd7dbec760d62beda726ba3cdf6ebc060f0b60b",
+      "events_matched": 14
+    },
+    {
+      "number": 2,
+      "name_ja": "朝日杯フューチュリティステークス",
+      "name_ko": "아사히배 퓨처러티 스테이크스",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP_OLsmvZdfwnNfD907vCynq3tig7fqp-ItwFvSaCSowCsi41xLlb9QYgpbnPtYjO2M-aEhQd9qRXZFahw2A0_KmVQX5pn2hbA_4AVITjeXWvVEoqpoqlVB9ZzfE-8NwU78YkXbBd_bqLg61i--iE2MI.webp",
+      "file": "g1-02.webp",
+      "size_bytes": 5950,
+      "sha256": "1cdefd1c797d61f416e0c7225d68ced763cc110f92f5ba2ab7f10b1e66080331",
+      "events_matched": 12
+    },
+    {
+      "number": 3,
+      "name_ja": "ホープフルステークス",
+      "name_ko": "호프풀 스테이크스",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrPx7hUaQnCry65PAARoqLubwoZZvs3ZhfNU-hkr5DeijBsCvjSchSxI2_zCqJMjxHmrBsgxlVtsf09ikKbvU9PHlLubqc4Cp9xM2YMzpt4X_i9iHMXtK8c7s89DiNYP4Q_lWcDRoCoGjC1tK3xkF8btA.webp",
+      "file": "g1-03.webp",
+      "size_bytes": 5760,
+      "sha256": "c3806618993927a0d99f81bbb3713801a3af00d8f412d3c871da0cd0ccf593ea",
+      "events_matched": 0
+    },
+    {
+      "number": 4,
+      "name_ja": "全日本ジュニア優駿",
+      "name_ko": "전 일본 주니어 우준",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP4qEl_LNulqMm7FPGCW121hej_w5YmtisdP8H61g6melWN3R9eU2RjHkBKFsKZJvaoIKpBmYX0Od3hBbabw0tr7Hw7v7I188BdxjCI75s06WyFERisOAXKQGda3WSaCwjkGXpSJqnKQog4HG4_35Rek.webp",
+      "file": "g1-04.webp",
+      "size_bytes": 8720,
+      "sha256": "aa372460ab914b7443c7efe239817411178142bdd4767708503b9c5aa9ec8117",
+      "events_matched": 1
+    },
+    {
+      "number": 5,
+      "name_ja": "桜花賞",
+      "name_ko": "벚꽃상",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrPy4Zm8cBGN6nbCJNocMzbsu-duJEKJSgbcC9GZgz1ZWwnY7JubdREqr6ie17Zfrn2GAr3N-kdHlAqey8KRJpdmnHoi9t4Re8bfLurvCyBhBDqYjCJg6WYfXMkqM9hSSzpnA7mObm_KLQw5fwhNRmPbQ.webp",
+      "file": "g1-05.webp",
+      "size_bytes": 4886,
+      "sha256": "841fdaa055a20bd800fefa5d9db9faa0847162ddea7b5f75b3d6b423a701d1de",
+      "events_matched": 15
+    },
+    {
+      "number": 6,
+      "name_ja": "皐月賞",
+      "name_ko": "사츠키상",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP4-3Dst53Dxz0Xi5vymR4QR4L_CTxGVW63G_FC4Mc96zTi7n-xyh9vk2Fgj-NNoPmibsPzA-9F48eyk8qxMmWGmIcOqTeO1kATOHZOmOYweLHIdvl4miL9Xag3LEgLj9daqKKcvmHB2rqw7XcVURbJs.webp",
+      "file": "g1-06.webp",
+      "size_bytes": 6004,
+      "sha256": "62f8082f5c37c7f5105910caf792fbfb5d27d56ac71bad24a4487aad55dcf85b",
+      "events_matched": 24
+    },
+    {
+      "number": 7,
+      "name_ja": "NHKマイルカップ",
+      "name_ko": "NHK 마일컵",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP30Ne8Rzfy3O6qBIbMi_hgOGIDUJgUm0p2T2NjYtvzCsLC3RMAMVPo8tk2xaNVBCi434jER0Uje49G1yKxg4jmbDMNYOCxIWy9JeBdOG65mZw_u3q5GLJlrbmns742n78Ey9882zT0E7lJ0L3Sv-UtY.webp",
+      "file": "g1-07.webp",
+      "size_bytes": 6274,
+      "sha256": "fd9af95dfd6069520372fd4d7647619519197ad9855e2c0823266de1025b2e35",
+      "events_matched": 6
+    },
+    {
+      "number": 8,
+      "name_ja": "オークス",
+      "name_ko": "오크스",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP1YYRtU5cPYnPT6kO-aF4fp4PcMvlvfx1j07Tl8LA58R9SHFwR8YJBQckeRirTHOtXZv8f7hBmyc9bcKmpBGS8Ce7VPWK8djHijxgNoaNVaNK7gqKRUN10Qq6x1S2fU0ekDnqnJ8p98pAJHLNeG0ZSw.webp",
+      "file": "g1-08.webp",
+      "size_bytes": 6432,
+      "sha256": "6abf1c8e7fb3dc36419c644d8b83491387e8fc2aecdeea12fd5e7b7614c289e3",
+      "events_matched": 7
+    },
+    {
+      "number": 9,
+      "name_ja": "日本ダービー東京優駿",
+      "name_ko": "일본 더비 (도쿄 우준)",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP45CbD1QuFK9uvnkm0bfRmtWEAvuRXHmTO1wu2XChzdihrWadbXnHm1fuyP_uZtsb1RVtu46fUM8_1MN78W9GRZvrybLQ7pWroAcfd956beEJI4OcNPcdOYF5hosn53S0iKt8wM-AowLQS7tsTVywl8.webp",
+      "file": "g1-09.webp",
+      "size_bytes": 5158,
+      "sha256": "d0ee87dff2f151d24314a05421424689880bc6d58c2d58baf5ec5ba194ba9710",
+      "events_matched": 34
+    },
+    {
+      "number": 10,
+      "name_ja": "安田記念",
+      "name_ko": "야스다 기념",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP1qd0bDYYQTamZxOAc5Ubrpe9TnhVA7ym_OK6x2CFyGf1d-sxo3R60DU3VsmQ6_KboZVZC35viniW_XcZN288ruSvX5SxY_HMTtm3OcbBuyAiy9xOB-fsX-Tw-bAgDRBMofRXmR23WkexR_EQYBdvRw.webp",
+      "file": "g1-10.webp",
+      "size_bytes": 5248,
+      "sha256": "41fab3d1092b3532793797ed711ce45e38ed57c4c1e7cfa8dbbc3745f3213172",
+      "events_matched": 25
+    },
+    {
+      "number": 11,
+      "name_ja": "宝塚記念",
+      "name_ko": "타카라즈카 기념",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP3qO03CQWf_cbOo9PCyjlZKqdMe8sfF_zsieOjhe7Zc8s4erWhmPqBTV8z5IcpCIZVS4eJp6yTnv7MbV_AM6E6gkSUcZef5OVT-I_G47Jf3G1BXYmOshzpP8AZtLsJQs8QrbNd2fmhfLYdOsbW0bGnw.webp",
+      "file": "g1-11.webp",
+      "size_bytes": 6220,
+      "sha256": "2803e71e9e8fa66921d55c3d2149a0bf04d02644a88ea7e4112e03323b9c6c4b",
+      "events_matched": 34
+    },
+    {
+      "number": 12,
+      "name_ja": "ジャパンダートダービー",
+      "name_ko": "재팬 더트 더비",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrPyXMuTUCjdfHdXdWd_q0DrHcyn4BRggS2Wgyp9TKNdBnO0ryn_0O8bb8ADl6BreMB7vuL9hnfv5bA1MHB62BegwiWfo0nr5e-IjMaCUwbrP9Um_N-pfo144QxlykCjkszAafWTewDca96C-39zCvATw.webp",
+      "file": "g1-12.webp",
+      "size_bytes": 6074,
+      "sha256": "38a080935a812cfd61b51db7b38671b7bb5ae69ad43e21ae196d12b49f22ef66",
+      "events_matched": 5
+    },
+    {
+      "number": 13,
+      "name_ja": "スプリンターズステークス",
+      "name_ko": "스프린터스 스테이크스",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrPwXD2HtRwX3gg2qE5kuuz5DbWauUTa3j-3He3Qzy7KAEGFT1Q9b1SmXcf2stRcbLZz0CDkrGRZOga7cpP4Ixa3uRR1b1aWC5Utytldsweg1YvHJjCuCuLnBzoW1OBLdL5IwWLrwZVtOAKFxRSZaPNTg.webp",
+      "file": "g1-13.webp",
+      "size_bytes": 5960,
+      "sha256": "3450d4eeeba6417eecaa0ecd626f8f441802994c4bdd3c83dd3b74c98ad0db25",
+      "events_matched": 20
+    },
+    {
+      "number": 14,
+      "name_ja": "マイルチャンピオンシップ南部杯",
+      "name_ko": "마일 챔피언십 남부배",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrPxxzfNCNcXrSINLkInIwEolV1SAyxOghAdeDniHenq9Cq3undpuPfrcEwEKdL1S394Z8qBuQsz_hnla4u0zws-cCEieHNzc84Y73lzUnl8w0E0zyDsTYDVCilwcPU7NDuRUnq3p1rR8Cr2ls7xeajh4.webp",
+      "file": "g1-14.webp",
+      "size_bytes": 9670,
+      "sha256": "29557bb44147ceafaa3e97adbfa8de295403b576ae24756d9fdcdac5cad691f9",
+      "events_matched": 12
+    },
+    {
+      "number": 15,
+      "name_ja": "天皇賞(秋)",
+      "name_ko": "텐노상(가을)",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP-TCPdkmKK2U4aGbBQ7eUD7NDuB2t7wMmDG7gCtMw32BX_T9JT0zXLe-OfwJaZCrsK5V2rgpBbyhOxXUxDQHVipz8htznlrlpNxjCbco8pQtyxs2ITYv3NeG3FSn9XxKbd5DBsXHJdOiGkPVLgAh6kk.webp",
+      "file": "g1-15.webp",
+      "size_bytes": 5956,
+      "sha256": "90361dbd7745be0bd4bb27f371e99161752151258eb7e27bd61deb6e79d364f8",
+      "events_matched": 37
+    },
+    {
+      "number": 16,
+      "name_ja": "秋華賞",
+      "name_ko": "추화상",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP50RC0E2KseGjwXR2tpuSY8mBQz7MURfhyCNCAI-erIXMFW5ybn69E3hfZpdNXyW5jWr2VV-SV1I-69o3sdDnjib6NDJTvYmznvZ0IxadcIXCFWjYsxwLBqsxH_wZeRCNvRDJxvmJzyxvgkRRcg_E-c.webp",
+      "file": "g1-16.webp",
+      "size_bytes": 7660,
+      "sha256": "8116eeec2e686981218fa3debc7b5de78e2a0e38def3d78b4078b932ba4ac1af",
+      "events_matched": 14
+    },
+    {
+      "number": 17,
+      "name_ja": "菊花賞",
+      "name_ko": "국화상",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP9kZ9xdfPkC31VJ_96HkgHo4XIomW7R6BE-eO6lyqa9O7JDNmnSw4vGWiZqfmZ5TQdfGBF75HQKtJTw0wpAIh3YNjylgECnHfRIKGRc3eEWpz0BbhsVIBnx8k96sMx-UM0cBSpf8HX-5ZVQWSAzHgxY.webp",
+      "file": "g1-17.webp",
+      "size_bytes": 7220,
+      "sha256": "a6a0799d201c4b0cbaf8a6cac957a9e42ba04dcc356a0c226973d63f20693045",
+      "events_matched": 26
+    },
+    {
+      "number": 18,
+      "name_ja": "エリザベス女王杯",
+      "name_ko": "엘리자베스 여왕배",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP3zlaUUwa257_C1SWB1nb-vmiONU3x43Q_k1kLze7S1-iFyJNGMRXrOlP-wMLMB8a_RL5HpnCytOBi6EzZBa8TzLmXtS25OKCkpmDbH6Yq02OSYbir7iu0f4gk1Xv3fEQ5rZFubFFYOu8kS7WnuleNw.webp",
+      "file": "g1-18.webp",
+      "size_bytes": 5914,
+      "sha256": "64e282c1bea90469e2a6e22241a92a18d632c7838d56375ff7279e709f5ec2f1",
+      "events_matched": 23
+    },
+    {
+      "number": 19,
+      "name_ja": "JBCレディスクラシック",
+      "name_ko": "JBC 레이디스 클래식",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP37d-5UuIIiOgbv8REuNtEM8rM1jYGhgbi61rZVqMjnhNRmbrBmClX6LzA9E_70mhp2DSLoOfM-XdNFzfYAZ0N9bxW2hfO9SuJ7rmvbYSXrqMpmmyM2xgnNScC9nuhR0VbAvgb3gX7pfFWEycvi1KQ4.webp",
+      "file": "g1-19.webp",
+      "size_bytes": 5062,
+      "sha256": "b67c6109823db0c11d8d7739bb4e26bccf536a61ab7dd6225a2c6ad0110eb3c8",
+      "events_matched": 0
+    },
+    {
+      "number": 20,
+      "name_ja": "JBCスプリント",
+      "name_ko": "JBC 스프린트",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrPwht9jarZsmH8SDBbw3PTOYn8qmlU4VrEJRWLoGMkFrw6e_FnipLanTTZgZWrLoszoesGuGXPm1PMi5L3jsnKYBn-36JkZA41cLX5f1v2j_Ocst0PYW34fGrQSlLIpNjQVvaRFiH08uC7JTcSIOqvKs.webp",
+      "file": "g1-20.webp",
+      "size_bytes": 4752,
+      "sha256": "ba863cd7eb200857459ae518edc492f4687eaf28c4caecbfc70a571a548992c0",
+      "events_matched": 3
+    },
+    {
+      "number": 21,
+      "name_ja": "JBCクラシック",
+      "name_ko": "JBC 클래식",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP8Qt_xOPrBeFXME1ti6ompf1zx6bT_SlDskjFUj5pp1gj8zd65YZTKr6dDpICtbBG8yNq3IHnbmT741UQ5VyJZuYL77XGgSK3xHAbNmZYraVQNSX1s0zeqHmZEytym7YYJ29BsQpy60ZaKFLLx5ljd0.webp",
+      "file": "g1-21.webp",
+      "size_bytes": 4968,
+      "sha256": "ba592666768ef12cc9b5988b58930d02f2452ec7b14c655e704f162b214cb66c",
+      "events_matched": 11
+    },
+    {
+      "number": 22,
+      "name_ja": "マイルチャンピオンシップ",
+      "name_ko": "마일 챔피언십",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrPww36sShiUYSXGSbuHIBFnWFqXF0XjcK_X_3rKHH2HSeWUmIPhpqY-NUbkc31dCgyWE5wty5dytncfWM8HYfb8iJTAxrFXsR3XWnetT8WttpVRM7NMzERwheIAyt2qmdcJ2lNzHGVfsTNS8vdgbuqg4.webp",
+      "file": "g1-22.webp",
+      "size_bytes": 6820,
+      "sha256": "af3091cf49a8944bffcb9b5830d5d686ee31f5b6d71009e1d1f381106e51c771",
+      "events_matched": 24
+    },
+    {
+      "number": 23,
+      "name_ja": "ジャパンカップ",
+      "name_ko": "재팬컵",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrPwAm02I19wffNQgB85SiNFv92Q6dgsBw9zJS7GF84LT23bmJWOs1SY8SrRZgOojycmhN5SfiEdBuo0sug5i-tZmy5g44KcZk_v_lulFT4qTmAkhB66K_0Ue2xg5yFAWcZj_IASDMCVIFsXaPaHgj8Y8.webp",
+      "file": "g1-23.webp",
+      "size_bytes": 4260,
+      "sha256": "585c805157e84742903eb156baaacee55a696ba49c1c1395a71b4313568a9139",
+      "events_matched": 36
+    },
+    {
+      "number": 24,
+      "name_ja": "チャンピオンズカップ",
+      "name_ko": "챔피언스컵",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrPyCKAMTFNUAxwsWKsHm4mINoJ_lODz3RY_GU7Pf57dzr-cb06LfjUHlyEu1AqzWQh_K8R02cS1v8sUycoIbvxfdnGhZ6K1HrEzzPDEa-GnI5S3EyXaSujPz7tkJZoearfIzOrTqvALTzgp0lOvFI42I.webp",
+      "file": "g1-24.webp",
+      "size_bytes": 5926,
+      "sha256": "58b99dd0b693876957fb927cc88b87891d1b463eef9a2b495c443fc841b132b5",
+      "events_matched": 13
+    },
+    {
+      "number": 25,
+      "name_ja": "有馬記念",
+      "name_ko": "아리마 기념",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP805Zpjzq3Rnyy4skPtGd_ePHML7G2G0UlXiWvZo0dBw6F6I3rLoRHCakcuwTZEXX5aF96pIE_bMBkwWOvKHJNGCXGzQ4GZ2OiTJ2JXzVTP9GrKmRNdSSlRdF0I9QcQUFndIcJSwBERs4tmr5vKFTiA.webp",
+      "file": "g1-25.webp",
+      "size_bytes": 6110,
+      "sha256": "822624d311d646c0166f7bb43138dc20625e90d54e5652049c444db9738c45e2",
+      "events_matched": 37
+    },
+    {
+      "number": 26,
+      "name_ja": "東京大賞典",
+      "name_ko": "도쿄 대상전",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP0MKTb5gu1kZ_Oz0WJaCMPwze4MYEfBOGMuUsjetWqdG8JYm5cmkbHTye1LZ802OZIclfLIY5cZoM6NAPS96hgWkRZh6pTgnIGjNUtzfgOnXorN8CqnZBR6zScL1qp353WQ_BN9AlO9yjcPmqGoqT58.webp",
+      "file": "g1-26.webp",
+      "size_bytes": 5408,
+      "sha256": "3f9033873372a474df70372ca1dd9020e98e7761dc4a54a8e60b630fa1e52367",
+      "events_matched": 12
+    },
+    {
+      "number": 27,
+      "name_ja": "川崎記念",
+      "name_ko": "가와사키 기념",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP8Cxfju8T9MmFt5ilRwL1i7CN_nrrQs7v2xNHd4ieerqjn6OQBac-EtazuiwtGqSo41ZiMSyRapbDPlGtec6VUu9tFVGSuRZ6G6RYlQPJMQeABMaZ1hES1mbHlSEowucgvsCHRgIiAJT8eNQDc4vyww.webp",
+      "file": "g1-27.webp",
+      "size_bytes": 7878,
+      "sha256": "6ecced6ce1ae39481f18303273244fae84ece542bcc55b3a77f49daa862e5e85",
+      "events_matched": 10
+    },
+    {
+      "number": 28,
+      "name_ja": "フェブラリーステークス",
+      "name_ko": "페브러리 스테이크스",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP_HTu-twooUsL_VipVlnzeD8UPoP1qfMtDO8cUGuXR4NsbTqbzLN-VzCDR8IReghTfpgtDyvZKZzV7vJwomz4SS0ZSZq_sGznrfuYTxz876rM9UwQzWmn6y_SewuOWDV-pb6q8NktGP99e3nTlB3psk.webp",
+      "file": "g1-28.webp",
+      "size_bytes": 8504,
+      "sha256": "5eaba1ad932e0536245633e5b4d0b9121c89b1d136cd2c55e1ff76cf14de1f15",
+      "events_matched": 14
+    },
+    {
+      "number": 29,
+      "name_ja": "高松宮記念",
+      "name_ko": "타카마츠노미야 기념",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP1-hfDvBHnP3VQMc5t-tmAkz-RFCYoRHk8ACJYOE3cKlzqtn5nvQgUftSGa0WTGLlm6NwhRHtZkgRVTMZBb5_HuJmabsu-dzBuwhhlt8kF6uj99ZkhL1JZ6GzukFVb4wSA7daOOyilaIhH2D4YUOP54.webp",
+      "file": "g1-29.webp",
+      "size_bytes": 6118,
+      "sha256": "86af8d393478db7235cef8d3813552c096d045cea32211aa894f72a5b4ab5022",
+      "events_matched": 11
+    },
+    {
+      "number": 30,
+      "name_ja": "大阪杯",
+      "name_ko": "오사카배",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP4nGxissRNLcK3yj2HOMNqkD__VdVlsvIZYos9MxmwjnejEdO3UtbLs6G_arz6C8RFZsnNjH68eArltkFxDn8SlB7XsZj5ixPCSb2Ak3dr5pZUbnf8OHwn5qSsNgAFJxGmBm4nn-w6bLUqrgllyiBoI.webp",
+      "file": "g1-30.webp",
+      "size_bytes": 8308,
+      "sha256": "b34eba7cb3b103dc688736323c2539b028547cfcb9ada56bb77e408a4733720b",
+      "events_matched": 5
+    },
+    {
+      "number": 31,
+      "name_ja": "天皇賞(春)",
+      "name_ko": "텐노상(봄)",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP3aCJORhWzs95FlIj6tjavgYAO55Rw8zxgjk7iHFP-rjRaxFnaAWApyrxz93W4dM8C56OlyidRphxmfM9eT_MOROrPe-FX-As6Ygn3MYhvjPmI80pnK81okpEPyUY4Ww4Rvd2SQe7Nat1I_WQODHvWA.webp",
+      "file": "g1-31.webp",
+      "size_bytes": 5708,
+      "sha256": "c7269a910b7e615f79a5936fa4253e97f6b8d30abc68a219b564602a829599a1",
+      "events_matched": 32
+    },
+    {
+      "number": 32,
+      "name_ja": "ヴィクトリアマイル",
+      "name_ko": "빅토리아 마일",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP4vvdIVFk06E31xweKYvCxqXf_JlWoDy6pdasxiFwH8_caeYzzLMx6kNkKPAA_iqnqgEsjOJvQEXgR9IlCaRq8pk0nl03jEeyV66TPsb3aknXu0wOOSDOySJ4thrLUmerTDxjPc3qPH0j_FR8jhWzMg.webp",
+      "file": "g1-32.webp",
+      "size_bytes": 8226,
+      "sha256": "18827f7e2c24e261ad1935bcfd71aeaa7a36baafdaf00b1fe347e80a1f436791",
+      "events_matched": 14
+    },
+    {
+      "number": 33,
+      "name_ja": "かしわ記念",
+      "name_ko": "카시와 기념",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrPysDv6NZHIfQtxNwlUwknLMODjCp-8aCuxSkpigbRmLTbk5UtdYm2aYmYpFSjOv_TJYqqu3u-vRavNQZCAgqVjCzmh3Xww4hKO3vanPLrir_v1iVemP3eoM7QKkjLdyH8A_7DIXNPYdttyMn0ulEXAY.webp",
+      "file": "g1-33.webp",
+      "size_bytes": 6180,
+      "sha256": "a313cad46e257d01c7ae738cceabd1a3c0b76456d5b85773ab746ca0aef40319",
+      "events_matched": 9
+    },
+    {
+      "number": 34,
+      "name_ja": "帝王賞",
+      "name_ko": "제왕상",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP4-GUF-wb_R-cbxqHAy1H5OLLsIDEU5YTvYjauiCvQPhZATqLLU0DGbwHVwUd_h3_Dl8Q_Wo3cbbP43SaH_DsvoYclgFgRQijdAkKleOEzZQyIhQQXD7wRN2rjsQ4tPLCwQxItmPHWyx8VkRBz9a6HU.webp",
+      "file": "g1-34.webp",
+      "size_bytes": 6078,
+      "sha256": "4661ec017655a5bc9f70bbd55049894cd544aec9ff64eea43a0c5c28fba34f7e",
+      "events_matched": 10
+    },
+    {
+      "number": 35,
+      "name_ja": "凱旋門賞",
+      "name_ko": "개선문상",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP72K0jhBXlKkRj1ccOdQcpw5a9FY6IyT_jYxWJNTROk_Xx1e6umsMTqy0ZhUjajSQA1DFll-pvHPUPpewsf3FLTBP0kEq6vbRJrn3gOC7kU1VosFeRwG3rPfzCtGGSgly0RJW2pklE1s01H93ygN6QA.webp",
+      "file": "g1-35.webp",
+      "size_bytes": 6652,
+      "sha256": "d48b40cf0d3d7ab28d0f3aaa6e4e190cead7929d42a2506878561211042c8242",
+      "events_matched": 13
+    },
+    {
+      "number": 36,
+      "name_ja": "BCターフスプリント",
+      "name_ko": "BC 터프 스프린트",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP9XqCISDHSq9oPj07ELdQ7Ngmcbu9BdH-HJBuRTGcDm7iIxs6CiJpRkJ6OZyUop06FXwvbEF7yZEcOywNPzZoyTUvI8EjuJ-NgeuJRH6Yc5p25YrBfWrY7ttETpa3J4nv5l-iqxCxEw2E7BbRdGAUXk.webp",
+      "file": "g1-36.webp",
+      "size_bytes": 7214,
+      "sha256": "87e06b4520505219fce768acea0ae5bc9ebabe9418ab63028952ce8bab750a84",
+      "events_matched": 0
+    },
+    {
+      "number": 37,
+      "name_ja": "BCマイル",
+      "name_ko": "BC 마일",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP9x5ik4MIQSKpHkzuY8fXTOFED86CO_lNt9tcC88rLMTwRzTg4Getz-X-09KPsm0R-gUeaGKcivKBaiWIXiWPuIXb_dqdLLTQT5obnpl7obf_jaODrcS4Cta3rea22zTIGzReM0RDuMry11hNlxV2_U.webp",
+      "file": "g1-37.webp",
+      "size_bytes": 5904,
+      "sha256": "5f7586f9e70fa6d0704e025b9b8a3b62df7c5c087842bc754bd2ed872ada4b0e",
+      "events_matched": 0
+    },
+    {
+      "number": 38,
+      "name_ja": "BCフィリー＆メアターフ",
+      "name_ko": "BC 필리 & 메어 터프",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrPyEdKwjsB3qk-ifU0I_Qz--GSR5jkZB9fq32zEFspoZts_7dQ1iQj8EPLucKxcmf1Owwyegr84NoN5OIr7kACIzEnVp0T-gJJyG-lMXzpn_4ZyqXSWZrDxqOoSC4wBR0BMdk1B0pYNkl3yglNNOzdRw.webp",
+      "file": "g1-38.webp",
+      "size_bytes": 7292,
+      "sha256": "3149069738cd5620af3735ab4c8b0013a63053d4aaabd4ab460c54ab3edff45b",
+      "events_matched": 2
+    },
+    {
+      "number": 39,
+      "name_ja": "BCターフ",
+      "name_ko": "BC 터프",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP3Uz8V9Y7eG8ApQPwXkdikoEwHd2dc8YZYE7ssO1evNS4sfgP6RmdPVf10UedKigFWAnX3BcjVGFnjR4XGK0ZRnl0Ok975BF6f1cBU89WbKtDIlp_w-pNrvGGn-AdnKOm2Ih1nDCbkyy1jMaPhVPgzI.webp",
+      "file": "g1-39.webp",
+      "size_bytes": 7744,
+      "sha256": "193636aed0c07af331174cadc029016e7df5147dfd2f2b1400a156173094661c",
+      "events_matched": 0
+    },
+    {
+      "number": 40,
+      "name_ja": "BCスプリント",
+      "name_ko": "BC 스프린트",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP4y3nL2VGy0uxsevFlQEk3ZVdr92gZCUuq7G1XXz8WB94Kd3z5HC6kny0OlnJLa60lDsF51MwELE8KP3RxU9hJXYARrDN3jv76fNoUOlIt4OnqMRgTZ4CI65QkK56DHWnuPlzFP3A2SVljLi6Daq93A.webp",
+      "file": "g1-40.webp",
+      "size_bytes": 7138,
+      "sha256": "fae7d187ec3ed93b4de45c498d43b6551ec0dc0d161ca3a7505bd0cf689a2d56",
+      "events_matched": 0
+    },
+    {
+      "number": 41,
+      "name_ja": "BCフィリー&メアスプリント",
+      "name_ko": "BC 필리 & 메어 스프린트",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrPw5CoFTbM84CYfdmehEvNZlBgducDwWQdL0194f3CcIjlzEGdEtpddrXaM3Iv-jhQALatDzUm3au9jO-VO1ofTv6Ew-Nt-Or4tNL0uEGE8WM-0PS_4Ivu2Y8gEXg6z00aXiyKDVpECbw-YiFmIzT_jU.webp",
+      "file": "g1-41.webp",
+      "size_bytes": 8506,
+      "sha256": "917c4b2f6c3b6798a86dd47637a6e1053b014c56cf51ed57a66a1eb33909a8e6",
+      "events_matched": 0
+    },
+    {
+      "number": 42,
+      "name_ja": "BCダートマイル",
+      "name_ko": "BC 더트 마일",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP8-ak_MyFy-t48VjEZO1U548cWvWOb9RfpJ9T6U4FPk86EpxYTBdVCnX_-Shue82A3ClH7zIs8zjh8JYNbbj1zW4FZOqFTlhEP92GwKdd8anygOWbu8-Hjrlxhcno3lH_ooj0MSQv12PGuFN7VgMOqs.webp",
+      "file": "g1-42.webp",
+      "size_bytes": 7052,
+      "sha256": "136aba7eff67d3acb210f0a23f81f7c451715cfe64653a8f946664854c1a5e23",
+      "events_matched": 0
+    },
+    {
+      "number": 43,
+      "name_ja": "BCディスタフ",
+      "name_ko": "BC 디스태프",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrPxXH6UOSHV_Ou1mDE_vUs8ECFABkhO3ITsgItXcGxMnGNJD173wHj5DWnBKE4z7vWVL01cLtrDAxzpeeyXtqxhb5LjuIcX2dHvNqjegfsYUh5ppl9hdMDN-zv_RmeM1Gcmx3ixffcKGzS5hJjUk64tE.webp",
+      "file": "g1-43.webp",
+      "size_bytes": 7260,
+      "sha256": "f04e20ae129d2a7e0123326ff9861aed6637c85f4d31ab18c6bdb4eab75fd7b9",
+      "events_matched": 0
+    },
+    {
+      "number": 44,
+      "name_ja": "BCクラシック",
+      "name_ko": "BC 클래식",
+      "source_image_url": "https://i.namu.wiki/i/t9GEnKCHXl14piFozNwrP-l0Bzmo5CHE5Jw8IrNaVr3Dj72dP64MphlZftjcvvQjDTaQAOYv_QWFZnUeSMT5dW9z-2q_VxVKOPJte5aVUncAubwBq2HHCfSayy6hN9yNYAVWr5OLApRNDBq4eGjaJDoKUhEcK-1GfFt-pOdyhKI.webp",
+      "file": "g1-44.webp",
+      "size_bytes": 7482,
+      "sha256": "66178a860d2e2bd748ef22c65bdd855ff6a19d0b2ae9fc0fa312702f512eb695",
+      "events_matched": 1
+    }
+  ]
+}
