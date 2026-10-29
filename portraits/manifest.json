@@ -1,0 +1,1294 @@
+{
+  "source": "사용자 제공 캐릭터 이미지 ZIP",
+  "imported_at": "2026-10-28",
+  "note": "이미지 원본 파일을 재인코딩하지 않고 보관. 실제 WEBP인 3개 파일은 확장자를 .webp로 수정함.",
+  "total": 142,
+  "matched": 134,
+  "unmatched": 8,
+  "missing_horses": [
+    {
+      "horse_id": "horse_135",
+      "name": "ファレノプシス"
+    }
+  ],
+  "images": [
+    {
+      "index": "001",
+      "filename": "001.png",
+      "source_name": "스페셜 위크",
+      "horse_id": "horse_001",
+      "horse_name": "스페셜위크",
+      "size": 144889,
+      "sha256": "370b207992d68398800e4e73f98601e8e1b8a71c78daa102b3d3e81d2231f782"
+    },
+    {
+      "index": "002",
+      "filename": "002.png",
+      "source_name": "사일런스 스즈카",
+      "horse_id": "horse_002",
+      "horse_name": "사일런스스즈카",
+      "size": 144420,
+      "sha256": "3d27eb3f44145b39ba0f894c412fe3ba9844b205481438dd6f8c1f2a69f813ef"
+    },
+    {
+      "index": "003",
+      "filename": "003.png",
+      "source_name": "토카이 테이오",
+      "horse_id": "horse_003",
+      "horse_name": "토카이테이오",
+      "size": 181535,
+      "sha256": "992b4af422bc350fe61dfad3b6ed81dd21f57b00fc4e483d173eb90f15b95751"
+    },
+    {
+      "index": "004",
+      "filename": "004.png",
+      "source_name": "마루젠스키",
+      "horse_id": "horse_004",
+      "horse_name": "마루젠스키",
+      "size": 196836,
+      "sha256": "9c00dd873749a21d54d383f0fb5ce4f3a8f0715d7fc26ea649fb63397262f5de"
+    },
+    {
+      "index": "005",
+      "filename": "005.png",
+      "source_name": "후지 키세키",
+      "horse_id": "horse_005",
+      "horse_name": "후지키세키",
+      "size": 151661,
+      "sha256": "67e5b777731d656cf991e3a5f25585c5a4a0b373d11878b5099f97cd51d3ba04"
+    },
+    {
+      "index": "006",
+      "filename": "006.png",
+      "source_name": "오구리 캡",
+      "horse_id": "horse_006",
+      "horse_name": "오구리캡",
+      "size": 153535,
+      "sha256": "c456012793e62c3a7dfcf893ef01a55ddd9bb971688383e749df4d447911c5b6"
+    },
+    {
+      "index": "007",
+      "filename": "007.png",
+      "source_name": "골드 쉽",
+      "horse_id": "horse_007",
+      "horse_name": "골드쉽",
+      "size": 159000,
+      "sha256": "46e6daf881972c6003974fc7af3e7811f3ae0166c04de156eac9d5a659088f7f"
+    },
+    {
+      "index": "008",
+      "filename": "008.png",
+      "source_name": "보드카",
+      "horse_id": "horse_008",
+      "horse_name": "보드카",
+      "size": 152558,
+      "sha256": "5a55faf9435027a9dc99325b868070597161d368825993802a0124ea338b888c"
+    },
+    {
+      "index": "009",
+      "filename": "009.png",
+      "source_name": "다이와 스칼렛",
+      "horse_id": "horse_009",
+      "horse_name": "다이와스칼렛",
+      "size": 200044,
+      "sha256": "077e16862d44f87de959318aec81f5e2bd7828f6a1db3f9a8417cdcfe9c005e3"
+    },
+    {
+      "index": "010",
+      "filename": "010.png",
+      "source_name": "타이키 셔틀",
+      "horse_id": "horse_010",
+      "horse_name": "타이키셔틀",
+      "size": 203233,
+      "sha256": "2437ab1688ac4f8c387dc05235e3c9bd2565d81b828b8c30f1bb3aac2bbf751a"
+    },
+    {
+      "index": "011",
+      "filename": "011.png",
+      "source_name": "그래스 원더",
+      "horse_id": "horse_011",
+      "horse_name": "그래스원더",
+      "size": 157869,
+      "sha256": "a91aa43a16cc6e9806fce07071711a95d4417128dbdcccf19fd6e30d5a012009"
+    },
+    {
+      "index": "012",
+      "filename": "012.png",
+      "source_name": "히시 아마존",
+      "horse_id": "horse_012",
+      "horse_name": "히시아마존",
+      "size": 166647,
+      "sha256": "8a0bae1623fa25e9b0630a48604e1e6c16a2dcb1cc82fd62c73eec2197a578a1"
+    },
+    {
+      "index": "013",
+      "filename": "013.png",
+      "source_name": "메지로 맥퀸",
+      "horse_id": "horse_013",
+      "horse_name": "메지로맥퀸",
+      "size": 158505,
+      "sha256": "da6078e1f6eb2cc5697240fed6d270f8d895fbf94eabedf1eebab758a99177f3"
+    },
+    {
+      "index": "014",
+      "filename": "014.png",
+      "source_name": "엘 콘도르 파사",
+      "horse_id": "horse_014",
+      "horse_name": "엘콘도르파사",
+      "size": 196288,
+      "sha256": "b55ca2d24b415ad58d9db0cfdc2e6851a6263c026b42847d77eff8b7713895bb"
+    },
+    {
+      "index": "015",
+      "filename": "015.png",
+      "source_name": "티엠 오페라 오",
+      "horse_id": "horse_015",
+      "horse_name": "티엠오페라오",
+      "size": 161167,
+      "sha256": "aa86b83a01ae09556627a07d2a83cd8ea2fd1be4cd96dc5974fec4276e69b677"
+    },
+    {
+      "index": "016",
+      "filename": "016.png",
+      "source_name": "나리타 브라이언",
+      "horse_id": "horse_016",
+      "horse_name": "나리타브라이언",
+      "size": 182067,
+      "sha256": "5df70b472a28965749e2325b9c13a3067af3b538150648ff16cd4b2a2c0a014e"
+    },
+    {
+      "index": "017",
+      "filename": "017.png",
+      "source_name": "심볼리 루돌프",
+      "horse_id": "horse_017",
+      "horse_name": "심볼리루돌프",
+      "size": 171329,
+      "sha256": "76a1ecde531386edd5dfdbeb5e575646d2c1718a3364aba38a567f6d2a897e4e"
+    },
+    {
+      "index": "018",
+      "filename": "018.png",
+      "source_name": "에어 그루브",
+      "horse_id": "horse_018",
+      "horse_name": "에어그루브",
+      "size": 156489,
+      "sha256": "400a04de264de70a8320adc77097a0bff22a1a06a0f8ce53f447585c4f768ced"
+    },
+    {
+      "index": "019",
+      "filename": "019.png",
+      "source_name": "아그네스 디지털",
+      "horse_id": "horse_019",
+      "horse_name": "아그네스디지털",
+      "size": 185564,
+      "sha256": "3a72a96685783c239f4b961043f04407b3c57613e2015c15c47cd8be58287e1a"
+    },
+    {
+      "index": "020",
+      "filename": "020.png",
+      "source_name": "세이운 스카이",
+      "horse_id": "horse_020",
+      "horse_name": "세이운스카이",
+      "size": 148209,
+      "sha256": "53b124bb387f98f8cb9a64673b48de1ce9ffe30a3883678755d48b407f98676b"
+    },
+    {
+      "index": "021",
+      "filename": "021.png",
+      "source_name": "타마모 크로스",
+      "horse_id": "horse_021",
+      "horse_name": "타마모크로스",
+      "size": 173553,
+      "sha256": "512a01d703a1bcce9f2f84ccdef9ae860725ae74329e885f1b8cb413ce13e829"
+    },
+    {
+      "index": "022",
+      "filename": "022.png",
+      "source_name": "파인 모션",
+      "horse_id": "horse_022",
+      "horse_name": "파인모션",
+      "size": 158655,
+      "sha256": "f3af7299f3d741e044542cc9bb72b411a64fca2282b08a4c52075985eb5e2b7f"
+    },
+    {
+      "index": "023",
+      "filename": "023.png",
+      "source_name": "비와 하야히데",
+      "horse_id": "horse_023",
+      "horse_name": "비와하야히데",
+      "size": 194792,
+      "sha256": "c8c24fd9c16b0ce0e84a26f1172b503bdc767cd68e1b187ae01a3b788519da12"
+    },
+    {
+      "index": "024",
+      "filename": "024.png",
+      "source_name": "마야노 탑건",
+      "horse_id": "horse_024",
+      "horse_name": "마야노탑건",
+      "size": 204817,
+      "sha256": "ad7ec6d14432c8b74b483d841787b3f2cab4741d2a585d1602971dd4c68c20dd"
+    },
+    {
+      "index": "025",
+      "filename": "025.png",
+      "source_name": "미호노 부르봉",
+      "horse_id": "horse_026",
+      "horse_name": "미호노부르봉",
+      "size": 192374,
+      "sha256": "a7599f223be9821dddf1028030216eac9f99ad64d1985f8a71338d486137cff9"
+    },
+    {
+      "index": "026",
+      "filename": "026.png",
+      "source_name": "메지로 라이언",
+      "horse_id": "horse_027",
+      "horse_name": "메지로라이언",
+      "size": 130225,
+      "sha256": "8a9e60aef341156261463d424f15d90e387be661a70b7cdfbcf08f93951e6a7b"
+    },
+    {
+      "index": "027",
+      "filename": "027.png",
+      "source_name": "히시 아케보노",
+      "horse_id": "horse_028",
+      "horse_name": "히시아케보노",
+      "size": 203122,
+      "sha256": "fd6b6ba49dc2944fafa5b2a0c5026bc525a6fafb74be92ca639bdc191c5879bd"
+    },
+    {
+      "index": "028",
+      "filename": "028.png",
+      "source_name": "유키노 비진",
+      "horse_id": "horse_029",
+      "horse_name": "유키노비진",
+      "size": 158104,
+      "sha256": "8ab3e222bc2b31e5e27db59c9c2ba2ffaae115c2050e2b544fabb180fe82ca36"
+    },
+    {
+      "index": "029",
+      "filename": "029.png",
+      "source_name": "라이스 샤워",
+      "horse_id": "horse_030",
+      "horse_name": "라이스샤워",
+      "size": 164173,
+      "sha256": "adbc3ba283505fa0832da96c4fd0137620194951051c3fd4592f1f1c32e67ca4"
+    },
+    {
+      "index": "030",
+      "filename": "030.png",
+      "source_name": "아이네스 후진",
+      "horse_id": "horse_031",
+      "horse_name": "아이네스후진",
+      "size": 169758,
+      "sha256": "565fc1e843534738a2ea2f6b4bfea0dd9dd46ab38a2021ed443eab92a183fd65"
+    },
+    {
+      "index": "031",
+      "filename": "031.png",
+      "source_name": "아그네스 타키온",
+      "horse_id": "horse_032",
+      "horse_name": "아그네스타키온",
+      "size": 153808,
+      "sha256": "de0049058b855427204c5d839ee5b0673ea542a2a7b58a0d4cf58e78baaf5fef"
+    },
+    {
+      "index": "032",
+      "filename": "032.png",
+      "source_name": "어드마이어 베가",
+      "horse_id": "horse_033",
+      "horse_name": "어드마이어베가",
+      "size": 150519,
+      "sha256": "e37dbc05c733812a1b16c205037c15c8009c930a4a830bb9e4d6c3cd509546c9"
+    },
+    {
+      "index": "033",
+      "filename": "033.png",
+      "source_name": "이나리 원",
+      "horse_id": "horse_034",
+      "horse_name": "이나리원",
+      "size": 177635,
+      "sha256": "7742669db8f15d4ee296e2412cad96540f372f357196a3213e73b6f35fbd1cfb"
+    },
+    {
+      "index": "034",
+      "filename": "034.png",
+      "source_name": "위닝 티켓",
+      "horse_id": "horse_035",
+      "horse_name": "위닝티켓",
+      "size": 145686,
+      "sha256": "13673ad94597b6b8f764e5690c03187145d274f819038bae9cdd4f2702fe496c"
+    },
+    {
+      "index": "035",
+      "filename": "035.png",
+      "source_name": "에어 샤커",
+      "horse_id": "horse_036",
+      "horse_name": "에어샤커",
+      "size": 171881,
+      "sha256": "7ea90da3486f4012a8abbbd3fd50357e8c3c29757f00f167745bf60e887e9ddd"
+    },
+    {
+      "index": "036",
+      "filename": "036.png",
+      "source_name": "에이신 플래시",
+      "horse_id": "horse_037",
+      "horse_name": "에이신플래시",
+      "size": 148978,
+      "sha256": "c91af2da9ecb96cbaec15ae9320b9ec18bdfa5722828c060cd1c42e0e2792078"
+    },
+    {
+      "index": "037",
+      "filename": "037.png",
+      "source_name": "카렌짱",
+      "horse_id": "horse_038",
+      "horse_name": "카렌짱",
+      "size": 152386,
+      "sha256": "f7fe3f86c9e86d0e7ecce9e12c1eb3394d9d20f3ac638978359d34c2804185ca"
+    },
+    {
+      "index": "038",
+      "filename": "038.png",
+      "source_name": "카와카미 프린세",
+      "horse_id": "horse_039",
+      "horse_name": "카와카미프린세스",
+      "size": 171183,
+      "sha256": "da4ac7e2c859dbad5353a62fd9e60fbd7ca9b6440e2e9a8703cb1abdb9198d20"
+    },
+    {
+      "index": "039",
+      "filename": "039.png",
+      "source_name": "골드 시티",
+      "horse_id": "horse_040",
+      "horse_name": "골드시티",
+      "size": 184857,
+      "sha256": "0dadb1ef30ea6e9212f8221b793eedfd9a14d9cfc9e7f0fe60ffe32dba29baeb"
+    },
+    {
+      "index": "040",
+      "filename": "040.png",
+      "source_name": "사쿠라 바쿠신",
+      "horse_id": "horse_041",
+      "horse_name": "사쿠라바쿠신오",
+      "size": 148037,
+      "sha256": "bd4975fd2ce0bc3c00d666fa01e844329f5972434150783b32e7eb5b095f27bd"
+    },
+    {
+      "index": "041",
+      "filename": "041.png",
+      "source_name": "시킹 더 펄",
+      "horse_id": "horse_042",
+      "horse_name": "시킹더펄",
+      "size": 178733,
+      "sha256": "d1588fe38a7885de27cf9c064790b1333b163dc38817595fb7ae21603c0cff7c"
+    },
+    {
+      "index": "042",
+      "filename": "042.png",
+      "source_name": "신코 윈디",
+      "horse_id": "horse_043",
+      "horse_name": "신코윈디",
+      "size": 166861,
+      "sha256": "9c54c280f4d5275a60a3cc9439cfcd1e784571c68a4246a63727feb5dac4063a"
+    },
+    {
+      "index": "043",
+      "filename": "043.png",
+      "source_name": "스윕 토쇼",
+      "horse_id": "horse_044",
+      "horse_name": "스윕토쇼",
+      "size": 191020,
+      "sha256": "11d3c97bee99dabf0c1c9e6db22a71fcd45f813ef6145c482c6242c42bdb245b"
+    },
+    {
+      "index": "044",
+      "filename": "044.png",
+      "source_name": "슈퍼 크릭",
+      "horse_id": "horse_045",
+      "horse_name": "슈퍼크릭",
+      "size": 166898,
+      "sha256": "dd219e0f74297785667d5e52594ef7144852186465a134fd690dcf0b40150db6"
+    },
+    {
+      "index": "045",
+      "filename": "045.png",
+      "source_name": "스마트 팔콘",
+      "horse_id": "horse_046",
+      "horse_name": "스마트팔콘",
+      "size": 163869,
+      "sha256": "0d58644ddeca9b23c2a8df97b528817bc8b7de93dd9e662c9f3be6cc3f2af3ed"
+    },
+    {
+      "index": "046",
+      "filename": "046.png",
+      "source_name": "젠노 롭 로이",
+      "horse_id": "horse_047",
+      "horse_name": "젠노롭로이",
+      "size": 141777,
+      "sha256": "e7f90b1b80466f607179861b19d98e69c6fd5da3542301bd9d7786bd077cbdcc"
+    },
+    {
+      "index": "047",
+      "filename": "047.png",
+      "source_name": "토센 조던",
+      "horse_id": "horse_048",
+      "horse_name": "토센조던",
+      "size": 195146,
+      "sha256": "3394952150c3515807a04a8017e39079b88a8b16a2cd4c70e5a43003904610ed"
+    },
+    {
+      "index": "048",
+      "filename": "048.png",
+      "source_name": "나카야마 페스타",
+      "horse_id": "horse_049",
+      "horse_name": "나카야마페스타",
+      "size": 164823,
+      "sha256": "f0d33c76b0caabfecdf0daae0087f00c77067d9f5f1a46d68acf126baf715961"
+    },
+    {
+      "index": "049",
+      "filename": "049.png",
+      "source_name": "나리타 타이신",
+      "horse_id": "horse_050",
+      "horse_name": "나리타타이신",
+      "size": 142550,
+      "sha256": "a12033b0dce83ab64b9fa9ac2f91a6db2f206e41b190c6d2e324e81d4832f090"
+    },
+    {
+      "index": "050",
+      "filename": "050.png",
+      "source_name": "니시노 플라워",
+      "horse_id": "horse_051",
+      "horse_name": "니시노플라워",
+      "size": 139812,
+      "sha256": "4b9b228c538d39baf6b5bc786c2ecda38b999484addf5e8c428aa549ac86448b"
+    },
+    {
+      "index": "051",
+      "filename": "051.png",
+      "source_name": "하루 우라라",
+      "horse_id": "horse_052",
+      "horse_name": "하루우라라",
+      "size": 167581,
+      "sha256": "3c46dc1023e5b642474e2b52badf7e2f3728c58dccf4719937073e47b14b8cc3"
+    },
+    {
+      "index": "052",
+      "filename": "052.png",
+      "source_name": "뱀부 메모리",
+      "horse_id": "horse_053",
+      "horse_name": "뱀부메모리",
+      "size": 165915,
+      "sha256": "5df71827a5dc30f5b94216012bddcae626a4d9bd135ec353318beda7ae4b21f4"
+    },
+    {
+      "index": "053",
+      "filename": "053.png",
+      "source_name": "비코 페가수스",
+      "horse_id": "horse_054",
+      "horse_name": "비코페가수스",
+      "size": 158728,
+      "sha256": "0f0553d69a5233830f5d987140f4f3dce3e9d86b0e7bbe95bfe273174931cee7"
+    },
+    {
+      "index": "054",
+      "filename": "054.png",
+      "source_name": "마블러스 선데이",
+      "horse_id": "horse_055",
+      "horse_name": "마블러스선데이",
+      "size": 183243,
+      "sha256": "3366b5369dcabd5be27fb2b1a337917f3ea55600a7d8c0df6fea7215901ac537"
+    },
+    {
+      "index": "055",
+      "filename": "055.png",
+      "source_name": "마치카네 후쿠키",
+      "horse_id": "horse_056",
+      "horse_name": "마치카네후쿠키타루",
+      "size": 155939,
+      "sha256": "0a431e2d04c296d9ac7e1deca16d5e0b580deb5200cb8ee69253aadfe4feeec9"
+    },
+    {
+      "index": "056",
+      "filename": "056.png",
+      "source_name": "미스터 시비",
+      "horse_id": "horse_057",
+      "horse_name": "미스터시비",
+      "size": 166093,
+      "sha256": "6e70307b526b1b7e91eec12fbd012fafadd4bd465ebb66234ab76e6d65a05d60"
+    },
+    {
+      "index": "057",
+      "filename": "057.png",
+      "source_name": "메이쇼 도토",
+      "horse_id": "horse_058",
+      "horse_name": "메이쇼도토",
+      "size": 167796,
+      "sha256": "f6b3d7848de0ca4ce4a30652b80210a0988924a0c7f7c03dbeb4861d6f12d629"
+    },
+    {
+      "index": "058",
+      "filename": "058.png",
+      "source_name": "메지로 도베르",
+      "horse_id": "horse_059",
+      "horse_name": "메지로도베르",
+      "size": 178236,
+      "sha256": "15fd13d429b89d779b85e5a2ca316989afe13e4512ad2da74b22630865f8664f"
+    },
+    {
+      "index": "059",
+      "filename": "059.png",
+      "source_name": "나이스 네이처",
+      "horse_id": "horse_060",
+      "horse_name": "나이스네이처",
+      "size": 175239,
+      "sha256": "5f62cfe66416a077c8088498ac8c95a3e8b872b124d8c03767ab6927555dc315"
+    },
+    {
+      "index": "060",
+      "filename": "060.png",
+      "source_name": "킹 헤일로",
+      "horse_id": "horse_061",
+      "horse_name": "킹헤일로",
+      "size": 168367,
+      "sha256": "5d92559335451d857318fce7694f5d287028b5c25e00be2b0c2e060974927676"
+    },
+    {
+      "index": "061",
+      "filename": "061.png",
+      "source_name": "마치카네 탄호이",
+      "horse_id": "horse_062",
+      "horse_name": "마치카네탄호이저",
+      "size": 187820,
+      "sha256": "d3172a5555246e6b3b9258b5e072166207567610daac46afc3ae6517cf7e199c"
+    },
+    {
+      "index": "062",
+      "filename": "062.png",
+      "source_name": "이쿠노 딕터스",
+      "horse_id": "horse_063",
+      "horse_name": "이쿠노딕터스",
+      "size": 149492,
+      "sha256": "e9b84a15fa93086599624375159d70c8697affe45688b2864bcca31cb4e458f7"
+    },
+    {
+      "index": "063",
+      "filename": "063.png",
+      "source_name": "메지로 파머",
+      "horse_id": "horse_064",
+      "horse_name": "메지로파머",
+      "size": 178719,
+      "sha256": "ba03ce99f44fd49d7145d696f98a59f4a62ff3a3c3a3c7286903be1e62fa5912"
+    },
+    {
+      "index": "064",
+      "filename": "064.png",
+      "source_name": "다이타쿠 헬리오",
+      "horse_id": "horse_065",
+      "horse_name": "다이타쿠헬리오스",
+      "size": 185552,
+      "sha256": "de266591f616b2c7841b7fc938345e0113868d8b276983724f8960e10fbeaab6"
+    },
+    {
+      "index": "065",
+      "filename": "065.png",
+      "source_name": "트윈 터보",
+      "horse_id": "horse_066",
+      "horse_name": "트윈터보",
+      "size": 207677,
+      "sha256": "11c6ea86e8246bca899e2ef571f32cdef3153d9040216b36fa45821ffbd818e7"
+    },
+    {
+      "index": "066",
+      "filename": "066.png",
+      "source_name": "사토노 다이아몬",
+      "horse_id": "horse_067",
+      "horse_name": "사토노다이아몬드",
+      "size": 176643,
+      "sha256": "8eeb0f7a33d0689bd5ed3f485a6635db2de0e4bfe1df0cce549863936e74367a"
+    },
+    {
+      "index": "067",
+      "filename": "067.png",
+      "source_name": "키타산 블랙",
+      "horse_id": "horse_068",
+      "horse_name": "키타산블랙",
+      "size": 186052,
+      "sha256": "ea140e5087430641dd77a625e53dc1886d502ee0fa2b0b0872d95270c690d9d8"
+    },
+    {
+      "index": "068",
+      "filename": "068.png",
+      "source_name": "사쿠라 치요노",
+      "horse_id": "horse_069",
+      "horse_name": "사쿠라치요노오",
+      "size": 169607,
+      "sha256": "a2b53a69d1ad2a06b919e117f5242753ff766b7c62b264ee07d8ea10efb7c443"
+    },
+    {
+      "index": "069",
+      "filename": "069.png",
+      "source_name": "시리우스 심볼리",
+      "horse_id": "horse_070",
+      "horse_name": "시리우스심볼리",
+      "size": 164479,
+      "sha256": "f1c47c3d793d6a723fde64dd01df9dec2c903a1b031e9e036c08fc1de33bf235"
+    },
+    {
+      "index": "070",
+      "filename": "070.png",
+      "source_name": "메지로 아르당",
+      "horse_id": "horse_071",
+      "horse_name": "메지로아르당",
+      "size": 165833,
+      "sha256": "1b479e5c0b39afacbdf93509e6db1c9f3927224869f2df3ff113b35abed4056f"
+    },
+    {
+      "index": "071",
+      "filename": "071.png",
+      "source_name": "야에노 무테키",
+      "horse_id": "horse_072",
+      "horse_name": "야에노무테키",
+      "size": 139159,
+      "sha256": "769bfba7572ec53c2bcd965139e4eb79f003c8d7c50ff5af936d587768800161"
+    },
+    {
+      "index": "072",
+      "filename": "072.png",
+      "source_name": "츠루마루 츠요시",
+      "horse_id": "horse_073",
+      "horse_name": "츠루마루츠요시",
+      "size": 139310,
+      "sha256": "231dd3ba79b90486f7a4905e250ff8293a0e6f681c0f9d8645f34847c8af66ba"
+    },
+    {
+      "index": "073",
+      "filename": "073.png",
+      "source_name": "메지로 브라이트",
+      "horse_id": "horse_074",
+      "horse_name": "메지로브라이트",
+      "size": 195414,
+      "sha256": "d351b0bc09dccbcf69c80560e0018079161ab30da8027b3136e12dec25969bd0"
+    },
+    {
+      "index": "074",
+      "filename": "074.png",
+      "source_name": "데어링 택트",
+      "horse_id": null,
+      "horse_name": null,
+      "size": 175734,
+      "sha256": "c1324d591009b8edbf9a4a950034931b9d330a26a381c61bc278a0d10de6c7fe"
+    },
+    {
+      "index": "075",
+      "filename": "075.png",
+      "source_name": "사쿠라 로렐",
+      "horse_id": "horse_075",
+      "horse_name": "사쿠라로렐",
+      "size": 141580,
+      "sha256": "a7d161ebc22d130251ec01ef196244b9b8c48b8bed464b65c580b7fca3aa927d"
+    },
+    {
+      "index": "076",
+      "filename": "076.png",
+      "source_name": "나리타 탑 로드",
+      "horse_id": "horse_076",
+      "horse_name": "나리타탑로드",
+      "size": 143294,
+      "sha256": "243f749e8bd7121a40c738361629cad64e007ffb0ef1bb1101d569dcb35f5206"
+    },
+    {
+      "index": "077",
+      "filename": "077.png",
+      "source_name": "야마닌 제퍼",
+      "horse_id": "horse_077",
+      "horse_name": "야마닌제퍼",
+      "size": 184705,
+      "sha256": "0bc41090b3fcb09c40a5852e17ad328fc6ce3d0410c6b9afaec2f78fbb46a614"
+    },
+    {
+      "index": "078",
+      "filename": "078.png",
+      "source_name": "푸리오소",
+      "horse_id": "horse_078",
+      "horse_name": "푸리오소",
+      "size": 179985,
+      "sha256": "a9737718a6919581a1a8a9e5b6c77217a7ddaae552ff6daf251792b3cd1cb629"
+    },
+    {
+      "index": "079",
+      "filename": "079.png",
+      "source_name": "트랜센드",
+      "horse_id": "horse_079",
+      "horse_name": "트랜센드",
+      "size": 181231,
+      "sha256": "d142508f07a1ad2b2508c0dab23ebf99e483ce1dfb8a7ac60f4134d936a6b452"
+    },
+    {
+      "index": "080",
+      "filename": "080.png",
+      "source_name": "노스 플라이트",
+      "horse_id": "horse_081",
+      "horse_name": "노스플라이트",
+      "size": 202895,
+      "sha256": "932be70d91a45acde4f8a9e4e1ca0970d1f6bf06704333132a04cf2c7f48f9a4"
+    },
+    {
+      "index": "081",
+      "filename": "081.png",
+      "source_name": "심볼리 크리스",
+      "horse_id": "horse_082",
+      "horse_name": "심볼리크리스에스",
+      "size": 161004,
+      "sha256": "9205617bcc6015e7aac9d687812843ee0598184c5939f19edeef22c1a3866f1d"
+    },
+    {
+      "index": "082",
+      "filename": "082.png",
+      "source_name": "타니노 김렛",
+      "horse_id": "horse_083",
+      "horse_name": "타니노김렛",
+      "size": 159637,
+      "sha256": "9f5e64ebbc79ceec2e8e6d49bf5923cd76587a6b4c287930b11a215db8dc3bb7"
+    },
+    {
+      "index": "083",
+      "filename": "083.png",
+      "source_name": "다이이치 루비",
+      "horse_id": "horse_084",
+      "horse_name": "다이이치루비",
+      "size": 197094,
+      "sha256": "a320f743331404499eddb3eb39d52eef26b6b870c4dd4bd65e3047f2e8167fe5"
+    },
+    {
+      "index": "084",
+      "filename": "084.png",
+      "source_name": "메지로 라모누",
+      "horse_id": "horse_085",
+      "horse_name": "메지로라모누",
+      "size": 145833,
+      "sha256": "30556c1d6b2ee7eb9bd9cf42710c29eed4fd552553ea91db7c7f22bd69486b06"
+    },
+    {
+      "index": "085",
+      "filename": "085.png",
+      "source_name": "애스턴 마짱",
+      "horse_id": "horse_086",
+      "horse_name": "애스턴마짱",
+      "size": 167171,
+      "sha256": "95499d78a379b23f34a5b99b04582d5449572528f63f34742c0a150da9bb4393"
+    },
+    {
+      "index": "086",
+      "filename": "086.png",
+      "source_name": "사토노 크라운",
+      "horse_id": "horse_087",
+      "horse_name": "사토노크라운",
+      "size": 179354,
+      "sha256": "2caded270517924a20ae905e3cc2cf2643e33110a17a69ccc273557000f98016"
+    },
+    {
+      "index": "087",
+      "filename": "087.png",
+      "source_name": "슈발 그랑",
+      "horse_id": "horse_088",
+      "horse_name": "슈발그랑",
+      "size": 163791,
+      "sha256": "3270b9bbd41beaf2c8bdd902bd14d5ca00262a9f690a20d89b6160ae1543bca2"
+    },
+    {
+      "index": "088",
+      "filename": "088.png",
+      "source_name": "비블로스",
+      "horse_id": "horse_090",
+      "horse_name": "비블로스",
+      "size": 215074,
+      "sha256": "39c168d7f9e3e5e6cf33bc09c6f09ac5aa29e5370e1ffda06a44b4b6787d1d04"
+    },
+    {
+      "index": "089",
+      "filename": "089.png",
+      "source_name": "단츠 플레임",
+      "horse_id": "horse_091",
+      "horse_name": "단츠플레임",
+      "size": 164784,
+      "sha256": "3d1e2ea29b3ecb5e84a0714757e2ba63aa77d9320ea3e991a5f98ca44e6940f8"
+    },
+    {
+      "index": "090",
+      "filename": "090.png",
+      "source_name": "케이에스 미라클",
+      "horse_id": "horse_092",
+      "horse_name": "케이에스미라클",
+      "size": 151324,
+      "sha256": "9afc335ce49a1ae1e5f3d512c28777e37763f63d79dd324791b21a44ac9a7e29"
+    },
+    {
+      "index": "091",
+      "filename": "091.png",
+      "source_name": "정글 포켓",
+      "horse_id": "horse_093",
+      "horse_name": "정글포켓",
+      "size": 179689,
+      "sha256": "612f0f00260a02cd748bc5a6eb48d70db865567bfa81011c84447402fb5eb084"
+    },
+    {
+      "index": "092",
+      "filename": "092.png",
+      "source_name": "빌리브",
+      "horse_id": "horse_094",
+      "horse_name": "빌리브",
+      "size": 142792,
+      "sha256": "a1d501c0ccafcf4273e95ac2176f00d9d2f2fc3caaffda886c35055a99ab2110"
+    },
+    {
+      "index": "093",
+      "filename": "093.png",
+      "source_name": "노 리즌",
+      "horse_id": "horse_095",
+      "horse_name": "노리즌",
+      "size": 180623,
+      "sha256": "47a9e62296b111f8eecfa96cbff3b1b6c747515898e8d5215095f6422f6deaf0"
+    },
+    {
+      "index": "094",
+      "filename": "094.png",
+      "source_name": "스틸 인 러브",
+      "horse_id": "horse_096",
+      "horse_name": "스틸인러브",
+      "size": 174693,
+      "sha256": "8e4a92f8ff020ec96549554a55113886b88c1e87df2a15dadae3084e8d23f85d"
+    },
+    {
+      "index": "095",
+      "filename": "095.png",
+      "source_name": "코파노 리키",
+      "horse_id": "horse_097",
+      "horse_name": "코파노리키",
+      "size": 184161,
+      "sha256": "8ca55db1e6df64c33dcc1527201d7724701c3c498513f702daea05813f2c83f2"
+    },
+    {
+      "index": "096",
+      "filename": "096.png",
+      "source_name": "홋코 타루마에",
+      "horse_id": "horse_098",
+      "horse_name": "홋코타루마에",
+      "size": 171822,
+      "sha256": "750c8894267a154b8c4097d47a5882acc048a37efac9c3911e7099e537b6285d"
+    },
+    {
+      "index": "097",
+      "filename": "097.png",
+      "source_name": "원더 어큐트",
+      "horse_id": "horse_099",
+      "horse_name": "원더어큐트",
+      "size": 185884,
+      "sha256": "30bcb6853861d2e14af48fb971373f205b973a0e00096f29a6f52e51ff1db5dd"
+    },
+    {
+      "index": "098",
+      "filename": "098.png",
+      "source_name": "삼손 빅",
+      "horse_id": null,
+      "horse_name": null,
+      "size": 190056,
+      "sha256": "4820018a65ecbb5408f4ee6be33e7467e245990c403a9335fec87b058f8f1858"
+    },
+    {
+      "index": "099",
+      "filename": "099.png",
+      "source_name": "사운즈 오브 어",
+      "horse_id": "horse_100",
+      "horse_name": "사운즈오브어스",
+      "size": 185709,
+      "sha256": "879a14fef2e6c654cb1c913c183f4559824949ee9781a12fd0141770d5d2b06d"
+    },
+    {
+      "index": "100",
+      "filename": "100.png",
+      "source_name": "로이스 앤 로이",
+      "horse_id": "horse_101",
+      "horse_name": "로이스앤로이스",
+      "size": 168167,
+      "sha256": "d22bc4bebec76a7af2c180780b61ec770db6d649afb26275769d8dfc72582265"
+    },
+    {
+      "index": "101",
+      "filename": "101.png",
+      "source_name": "카츠라기 에이스",
+      "horse_id": "horse_102",
+      "horse_name": "카츠라기에이스",
+      "size": 174519,
+      "sha256": "24f5d41caae697d9d6e48b46ec44d0b074cf1909274041f0a8f947463658592b"
+    },
+    {
+      "index": "102",
+      "filename": "102.png",
+      "source_name": "네오 유니버스",
+      "horse_id": "horse_103",
+      "horse_name": "네오유니버스",
+      "size": 193537,
+      "sha256": "899d35bf4af17f9308ce4b626548ea99c28edf261fe571a6d7d500e266d5689f"
+    },
+    {
+      "index": "103",
+      "filename": "103.png",
+      "source_name": "히시 미라클",
+      "horse_id": "horse_104",
+      "horse_name": "히시미라클",
+      "size": 163875,
+      "sha256": "84c7310887f768a97b630ccb917dd4c44a39763876c8b6a2a755c12a9c5a97ac"
+    },
+    {
+      "index": "104",
+      "filename": "104.png",
+      "source_name": "탭 댄스 시티",
+      "horse_id": "horse_105",
+      "horse_name": "탭댄스시티",
+      "size": 186098,
+      "sha256": "213a16e2e4210d3b214dbac46851430d92c8476bb4cc33fe6cd2b37937e4136e"
+    },
+    {
+      "index": "105",
+      "filename": "105.png",
+      "source_name": "두라멘테",
+      "horse_id": "horse_106",
+      "horse_name": "두라멘테",
+      "size": 190956,
+      "sha256": "7d7e1a6b60d3ae6cb68f490539ae07270ac2eee3ce8c6591a4a5d324c6f44933"
+    },
+    {
+      "index": "106",
+      "filename": "106.png",
+      "source_name": "라인 크라프트",
+      "horse_id": "horse_107",
+      "horse_name": "라인크라프트",
+      "size": 182547,
+      "sha256": "397bd69f45683c6b32c46bdb134a4cd7ab5ad1e3335693a580ed5957f0839e78"
+    },
+    {
+      "index": "107",
+      "filename": "107.png",
+      "source_name": "세자리오",
+      "horse_id": "horse_108",
+      "horse_name": "세자리오",
+      "size": 143165,
+      "sha256": "717d7a513bdd8af09fa45b57d0da4020ba4f2bc277448335321fdd45619b4e36"
+    },
+    {
+      "index": "108",
+      "filename": "108.png",
+      "source_name": "에어 메사이어",
+      "horse_id": "horse_109",
+      "horse_name": "에어메사이어",
+      "size": 161139,
+      "sha256": "7cf4807a6357582fe4fc769024cee5afef4db5f7f1489fca5af77ef69ae4bc42"
+    },
+    {
+      "index": "109",
+      "filename": "109.png",
+      "source_name": "데어링 하트",
+      "horse_id": "horse_110",
+      "horse_name": "데어링하트",
+      "size": 182144,
+      "sha256": "74e477cd65745101fd1fc390520cbdad10fcb688379765c8f45daa72731adcd7"
+    },
+    {
+      "index": "110",
+      "filename": "110.png",
+      "source_name": "후사이치 판도라",
+      "horse_id": "horse_111",
+      "horse_name": "후사이치판도라",
+      "size": 207136,
+      "sha256": "97bf2f418970cf7490b58f9a718d18ec32556672030b5a42e1d2ef574c3b46d9"
+    },
+    {
+      "index": "111",
+      "filename": "111.png",
+      "source_name": "부에나 비스타",
+      "horse_id": "horse_112",
+      "horse_name": "부에나비스타",
+      "size": 167399,
+      "sha256": "3c3bf2e1e846b50e2b502977d3beca6c3a09804f6d0d90a6aedb0ca2306a6048"
+    },
+    {
+      "index": "112",
+      "filename": "112.png",
+      "source_name": "오르페브르",
+      "horse_id": "horse_113",
+      "horse_name": "오르페브르",
+      "size": 176379,
+      "sha256": "72d2ad09b45f7e97e0c1c6261f5e45dd5b954b9f72148bf53c15ccd7a40009d6"
+    },
+    {
+      "index": "113",
+      "filename": "113.png",
+      "source_name": "젠틸돈나",
+      "horse_id": "horse_114",
+      "horse_name": "젠틸돈나",
+      "size": 159591,
+      "sha256": "4c8b75cc4e0111604b9d749a49d18d7fda18d265a70576e3d91320f24a2c5419"
+    },
+    {
+      "index": "114",
+      "filename": "114.png",
+      "source_name": "윈 바리아시옹",
+      "horse_id": "horse_115",
+      "horse_name": "윈바리아시옹",
+      "size": 166125,
+      "sha256": "fe86aba42e1419cdf455c30797a23d91e2daea03d222b06e15fdbf075d8ceab5"
+    },
+    {
+      "index": "115",
+      "filename": "115.png",
+      "source_name": "어드마이어 그루",
+      "horse_id": "horse_116",
+      "horse_name": "어드마이어그루브",
+      "size": 162361,
+      "sha256": "cc5158c414115b0273a570550c250cc30e034e5b6a907805021fa2b84933efe1"
+    },
+    {
+      "index": "116",
+      "filename": "116.png",
+      "source_name": "드림 저니",
+      "horse_id": "horse_117",
+      "horse_name": "드림저니",
+      "size": 202137,
+      "sha256": "90f7386cbb7fb9d6fa8eab189cdccc755bf1292342010135b0467c85a0d3a7b1"
+    },
+    {
+      "index": "117",
+      "filename": "117.png",
+      "source_name": "칼스톤 라이트",
+      "horse_id": "horse_118",
+      "horse_name": "칼스톤라이트오",
+      "size": 166316,
+      "sha256": "022aa7e21b86f062d855a5a9ddf075da3cccbb275c8ac63dad1b438e94710d56"
+    },
+    {
+      "index": "118",
+      "filename": "118.png",
+      "source_name": "뒤랑달",
+      "horse_id": "horse_119",
+      "horse_name": "뒤랑달",
+      "size": 175699,
+      "sha256": "572df3b7a0088ff2ec4bd0e9f7e65cbb84194c5b9612325dbe216ca556f65f0f"
+    },
+    {
+      "index": "119",
+      "filename": "119.png",
+      "source_name": "버블검 펠로",
+      "horse_id": "horse_120",
+      "horse_name": "버블검펠로",
+      "size": 205841,
+      "sha256": "3cb4cf488e15746ad285e7e531a9686c84f3c3b010839b99a1bf797855477a9a"
+    },
+    {
+      "index": "120",
+      "filename": "120.png",
+      "source_name": "사쿠라 치토세",
+      "horse_id": null,
+      "horse_name": null,
+      "size": 163289,
+      "sha256": "f1600e5c5b00a0ba264ba20ec22faa12e7653b45da470a7783e04deefcadb258"
+    },
+    {
+      "index": "121",
+      "filename": "121.png",
+      "source_name": "페노메노",
+      "horse_id": "horse_121",
+      "horse_name": "페노메노",
+      "size": 211003,
+      "sha256": "bef2c36f931a06e7ebcce47366839c1ce870b07d5fbc6dc98ace3a6f5f75d53c"
+    },
+    {
+      "index": "122",
+      "filename": "122.png",
+      "source_name": "블래스트 원피스",
+      "horse_id": null,
+      "horse_name": null,
+      "size": 216379,
+      "sha256": "23141b5b0394b21a2356b31547cb67e6c016c5ae1ee7dd3c099caef13d776a2a"
+    },
+    {
+      "index": "123",
+      "filename": "123.png",
+      "source_name": "아몬드 아이",
+      "horse_id": "horse_122",
+      "horse_name": "아몬드아이",
+      "size": 186833,
+      "sha256": "10218066ffd9c9a821f29d371593786900efc23dcff22f84e5057c5ab450a15c"
+    },
+    {
+      "index": "124",
+      "filename": "124.png",
+      "source_name": "럭키 라일락",
+      "horse_id": "horse_123",
+      "horse_name": "럭키라일락",
+      "size": 160247,
+      "sha256": "eb4e907cd265091a495bea8880ff9e2ecb7c7e2eca976285c7b85a24d5f02f80"
+    },
+    {
+      "index": "125",
+      "filename": "125.png",
+      "source_name": "그란 알레그리아",
+      "horse_id": "horse_124",
+      "horse_name": "그란알레그리아",
+      "size": 173078,
+      "sha256": "55c353edd48dd87e74eb8c612c8d36ec70e1cea1d64beac751d063fa2826d1fd"
+    },
+    {
+      "index": "126",
+      "filename": "126.png",
+      "source_name": "러브즈 온리 유",
+      "horse_id": "horse_125",
+      "horse_name": "러브즈온리유",
+      "size": 211079,
+      "sha256": "4b814948024820e7c6e60138968b26853e41dc04b268459aa49ab6f1ec1d18f0"
+    },
+    {
+      "index": "127",
+      "filename": "127.png",
+      "source_name": "크로노 제네시스",
+      "horse_id": "horse_126",
+      "horse_name": "크로노제네시스",
+      "size": 175072,
+      "sha256": "0bf643055a32fa0178cebb84e4cf9191a0cc706a4a267f89ef65f8aed687f891"
+    },
+    {
+      "index": "128",
+      "filename": "128.png",
+      "source_name": "카렌 부케도르",
+      "horse_id": "horse_127",
+      "horse_name": "카렌부케도르",
+      "size": 154158,
+      "sha256": "cf57afea0a272c15c5aae3f27a046eec063e1c36972b42564ee19e4d0be69349"
+    },
+    {
+      "index": "129",
+      "filename": "129.png",
+      "source_name": "스테이 골드",
+      "horse_id": "horse_128",
+      "horse_name": "스테이골드",
+      "size": 155699,
+      "sha256": "b9abf8d97ce93e4fbe5a207e3ce09151ecf0aa6b5b668d303b26152afd3ec9cd"
+    },
+    {
+      "index": "130",
+      "filename": "130.png",
+      "source_name": "레드 디자이어",
+      "horse_id": "horse_129",
+      "horse_name": "레드디자이어",
+      "size": 193718,
+      "sha256": "258c40b6e53de90c065b621ce8c8f4d1ee083c88bfa5321fa65a3bab90e5181a"
+    },
+    {
+      "index": "131",
+      "filename": "131.png",
+      "source_name": "키세키",
+      "horse_id": "horse_130",
+      "horse_name": "키세키",
+      "size": 167622,
+      "sha256": "be5f7a9bcd8b4d31ad321f8452dbb20fd476a2acf61aad7b2e57b5ec9db18b13"
+    },
+    {
+      "index": "132",
+      "filename": "132.png",
+      "source_name": "포에버 영",
+      "horse_id": null,
+      "horse_name": null,
+      "size": 211981,
+      "sha256": "df1d9ff4b751dbafba32f26e94e76272125d2a69ecdcdc008de3918e0918340f"
+    },
+    {
+      "index": "133",
+      "filename": "133.png",
+      "source_name": "마르슈 로렌",
+      "horse_id": null,
+      "horse_name": null,
+      "size": 194513,
+      "sha256": "736a87b635a4f2e83e3fb7e00dda4ec26d4f5ff868c9bcc5503f5231c4510e8c"
+    },
+    {
+      "index": "134",
+      "filename": "134.png",
+      "source_name": "에피파네이아",
+      "horse_id": "horse_131",
+      "horse_name": "에피파네이아",
+      "size": 177925,
+      "sha256": "3ad74b838ed8edc86fdd18bef886570c387ad66d123e0f58cf8afd2480dcd64c"
+    },
+    {
+      "index": "135",
+      "filename": "135.png",
+      "source_name": "로고타입",
+      "horse_id": null,
+      "horse_name": null,
+      "size": 155512,
+      "sha256": "3776fa122a9c3b9c290b889d180c998bb8316d57b77ec731956b622ee51626b6"
+    },
+    {
+      "index": "136",
+      "filename": "136.png",
+      "source_name": "빅투아르 피사",
+      "horse_id": "horse_132",
+      "horse_name": "빅투아르피사",
+      "size": 178326,
+      "sha256": "c9866d52964250dcfb0a683d547c706ac2a30835c1335d42edfc74bdf777f064"
+    },
+    {
+      "index": "137",
+      "filename": "137.png",
+      "source_name": "로즈 킹덤",
+      "horse_id": "horse_133",
+      "horse_name": "로즈킹덤",
+      "size": 145986,
+      "sha256": "3f7b47be5c3d7265c40b9462de91bf3208fd00d00d944b89edfd3ddacd893468"
+    },
+    {
+      "index": "138",
+      "filename": "138.png",
+      "source_name": "룰러쉽",
+      "horse_id": "horse_134",
+      "horse_name": "룰러쉽",
+      "size": 148076,
+      "sha256": "4c3e456250955fdd28aef08c00f55e9ea7e8f1b70306248c6d87654c761251fa"
+    },
+    {
+      "index": "139",
+      "filename": "139.png",
+      "source_name": "타이틀홀더",
+      "horse_id": null,
+      "horse_name": null,
+      "size": 170143,
+      "sha256": "ffbde2a3264e21efa21617a31b16a46cfeda6cde66a5d83969c75c021b7c33bd"
+    },
+    {
+      "index": "140",
+      "filename": "140.webp",
+      "source_name": "맨하탄 카페",
+      "horse_id": "horse_025",
+      "horse_name": "맨하탄카페",
+      "size": 20774,
+      "sha256": "4ac825951666312188f18bcde45189161e4b2a4626f22a16da691ae3b0c18b02"
+    },
+    {
+      "index": "141",
+      "filename": "141.webp",
+      "source_name": "베르시나",
+      "horse_id": "horse_089",
+      "horse_name": "베르시나",
+      "size": 22518,
+      "sha256": "6d433fe4835759725f764ddd88f5d3911bc2634ded4d82972afb2c5ec805597a"
+    },
+    {
+      "index": "142",
+      "filename": "142.webp",
+      "source_name": "에스푸아르 시티",
+      "horse_id": "horse_080",
+      "horse_name": "에스푸아르시티",
+      "size": 28408,
+      "sha256": "1aadbef7b052e75d92d508c069b1c964da9f3976235aa40cb34d4f0f30032328"
+    }
+  ]
+}
